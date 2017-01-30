@@ -1,0 +1,8 @@
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Homework7\Homework7\bin\Debug\Homework7.exe.config
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Homework7\Homework7\bin\Debug\Homework7.exe
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Homework7\Homework7\bin\Debug\Homework7.pdb
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Homework7\Homework7\obj\Debug\Homework7.Form1.resources
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Homework7\Homework7\obj\Debug\Homework7.Properties.Resources.resources
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Homework7\Homework7\obj\Debug\Homework7.csproj.GenerateResource.Cache
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Homework7\Homework7\obj\Debug\Homework7.exe
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Homework7\Homework7\obj\Debug\Homework7.pdb
